@@ -212,6 +212,7 @@
       "pureOnesTenpai": "청일색 텐파이 연습",
       "pointCalc": "점수 계산 연습",
       "efficiencyTrain": "패 효율 연습",
+      "breakdownTrain": "拆搭練習",
       "guide": "학습 경로",
       "books": "전술서 링크 모음",
       "contact": "저자 정보",
@@ -604,5 +605,40 @@
       "cannotDecompose": "패를 분해할 수 없습니다. 입력을 확인하세요",
       "noValidWinningShape": "유효한 화료 형식이 없습니다. 입력을 확인하세요"
     }
+  },
+  "breakdownTrain": {
+    "title": "拆搭練習",
+    "settings": {
+      "questionLegend": "문제"
+    },
+    "ui": {
+      "handTitle": "패",      "shanten": "향청",      "selected": "선택됨",
+      "selectHint": "패를 클릭하여 답변 선택"
+    },
+    "efficiencyAnalysis": {
+      "title": "進張數分析"
+    },
+    "analysis": {
+      "title": "문제 해설"
+    },
+    "table": {
+      "cut": "切",
+      "improvements": "進張",
+      "goodShapeRate": "好型率",
+      "total": "總進張"
+    },
+    "buttons": {
+      "submit": "답변 제출",
+      "skip": "건너뛰기",
+      "prev": "이전 문제",
+      "next": "다음",
+      "jump": "이동"
+    },
+    "result": {
+      "correct": "정답!",
+      "wrong": "오답!",
+      "correctAnswer": "정답"
+    }
   }
+
 }

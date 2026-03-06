@@ -212,6 +212,7 @@
       "pureOnesTenpai": "Pratique Tenpai Chinitsu",
       "pointCalc": "Pratique de points",
       "efficiencyTrain": "Entraînement d'efficacité",
+      "breakdownTrain": "Entraînement de décomposition",
       "guide": "Débutant → Avancé",
       "books": "Collection de livres",
       "contact": "À propos de l'auteur",
@@ -607,5 +608,40 @@
       "cannotDecompose": "Impossible de décomposer la main. Veuillez vérifier la saisie",
       "noValidWinningShape": "Aucune forme de main gagnante valide. Veuillez vérifier votre saisie"
     }
+  },
+  "breakdownTrain": {
+    "title": "Entraînement de décomposition",
+    "settings": {
+      "questionLegend": "Question"
+    },
+    "ui": {
+      "handTitle": "Main",      "shanten": "Shanten",      "selected": "Sélectionné",
+      "selectHint": "Cliquez sur une tuile pour sélectionner votre réponse"
+    },
+    "efficiencyAnalysis": {
+      "title": "Analyse d'amélioration"
+    },
+    "analysis": {
+      "title": "Explication"
+    },
+    "table": {
+      "cut": "Défausse",
+      "improvements": "Améliorations",
+      "goodShapeRate": "Forme bonne",
+      "total": "Total"
+    },
+    "buttons": {
+      "submit": "Soumettre",
+      "skip": "Passer",
+      "prev": "Précédent",
+      "next": "Suivant",
+      "jump": "Aller"
+    },
+    "result": {
+      "correct": "Correct!",
+      "wrong": "Incorrect!",
+      "correctAnswer": "Bonne réponse"
+    }
   }
+
 }

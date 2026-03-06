@@ -212,6 +212,7 @@
       "pureOnesTenpai": "Práctica Tenpai Chinitsu",
       "pointCalc": "Práctica de Puntos",
       "efficiencyTrain": "Entrenamiento de Eficiencia",
+      "breakdownTrain": "Entrenamiento de Descomposición",
       "guide": "De Principiante a Avanzado",
       "books": "Colección de Libros",
       "contact": "Sobre el Autor",
@@ -607,5 +608,40 @@
       "cannotDecompose": "No se puede descomponer la mano. Por favor, verifica la entrada",
       "noValidWinningShape": "No hay una forma válida de ganar. Por favor, verifica la entrada"
     }
+  },
+  "breakdownTrain": {
+    "title": "Entrenamiento de descomposición",
+    "settings": {
+      "questionLegend": "Pregunta"
+    },
+    "ui": {
+      "handTitle": "Mano",      "shanten": "Shanten",      "selected": "Seleccionado",
+      "selectHint": "Haz clic en una ficha para seleccionar tu respuesta"
+    },
+    "efficiencyAnalysis": {
+      "title": "Análisis de mejora"
+    },
+    "analysis": {
+      "title": "Explicación"
+    },
+    "table": {
+      "cut": "Descarte",
+      "improvements": "Mejoras",
+      "goodShapeRate": "Buena forma",
+      "total": "Total"
+    },
+    "buttons": {
+      "submit": "Enviar",
+      "skip": "Omitir",
+      "prev": "Anterior",
+      "next": "Siguiente",
+      "jump": "Ir"
+    },
+    "result": {
+      "correct": "¡Correcto!",
+      "wrong": "¡Incorrecto!",
+      "correctAnswer": "Respuesta correcta"
+    }
   }
+
 }

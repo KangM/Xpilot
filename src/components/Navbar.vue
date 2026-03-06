@@ -37,6 +37,7 @@
             <ul class="p-2 w-max whitespace-nowrap">
               <li><router-link to="/pure-ones-tenpai" class="link no-underline text-sm">{{ $t('navbar.items.pureOnesTenpai') }}</router-link></li>
               <li><router-link to="/efficiency-train" class="link no-underline text-sm">{{ $t('navbar.items.efficiencyTrain') }}</router-link></li>
+              <li><router-link to="/breakdown-train" class="link no-underline text-sm">{{ $t('navbar.items.breakdownTrain') }}</router-link></li>
               <li><router-link to="/point-calculation" class="link no-underline text-sm">{{ $t('navbar.items.pointCalc') }}</router-link></li>
               <li><router-link to="/hand-point-calculation" class="link no-underline text-sm">{{ $t('navbar.items.handPointCalc') }}</router-link></li>
               <li><router-link to="/guide" class="link no-underline text-sm">{{ $t('navbar.items.guide') }}</router-link></li>
@@ -73,6 +74,7 @@
             <ul class="p-2 w-max whitespace-nowrap top-[calc(100%+1.2rem)]">
               <li><router-link to="/pure-ones-tenpai" class="link no-underline">{{ $t('navbar.items.pureOnesTenpai') }}</router-link></li>
               <li><router-link to="/efficiency-train" class="link no-underline">{{ $t('navbar.items.efficiencyTrain') }}</router-link></li>
+              <li><router-link to="/breakdown-train" class="link no-underline">{{ $t('navbar.items.breakdownTrain') }}</router-link></li>
               <li><router-link to="/point-calculation" class="link no-underline">{{ $t('navbar.items.pointCalc') }}</router-link></li>
               <li><router-link to="/hand-point-calculation" class="link no-underline">{{ $t('navbar.items.handPointCalc') }}</router-link></li>
               <li><router-link to="/guide" class="link no-underline">{{ $t('navbar.items.guide') }}</router-link></li>

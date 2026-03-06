@@ -212,6 +212,7 @@
       "pureOnesTenpai": "Chinitsu Tenpai Practice",
       "pointCalc": "Point Calculation Practice",
       "efficiencyTrain": "Tile Efficiency Drills",
+      "breakdownTrain": "Breakdown Drills",
       "guide": "Beginner to Advanced",
       "books": "Books Collection",
       "contact": "About the Author",
@@ -603,5 +604,40 @@
       "cannotDecompose": "Cannot decompose the hand. Please check your input",
       "noValidWinningShape": "No valid winning hand shape. Please check your input"
     }
+  },
+  "breakdownTrain": {
+    "title": "Breakdown Drills",
+    "settings": {
+      "questionLegend": "Question"
+    },
+    "ui": {
+      "handTitle": "Hand",      "shanten": "Shanten",      "selected": "Selected",
+      "selectHint": "Click on a tile to select your answer"
+    },
+    "efficiencyAnalysis": {
+      "title": "Tile Improvement Analysis"
+    },
+    "analysis": {
+      "title": "Explanation"
+    },
+    "table": {
+      "cut": "Discard",
+      "improvements": "Improvements",
+      "goodShapeRate": "Good Shape Rate",
+      "total": "Total"
+    },
+    "buttons": {
+      "submit": "Submit",
+      "skip": "Skip",
+      "prev": "Previous",
+      "next": "Next",
+      "jump": "Jump"
+    },
+    "result": {
+      "correct": "Correct!",
+      "wrong": "Wrong!",
+      "correctAnswer": "Correct Answer"
+    }
   }
+
 }

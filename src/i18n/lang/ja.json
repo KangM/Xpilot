@@ -212,6 +212,7 @@
       "pureOnesTenpai": "清一色聴牌練習",
       "pointCalc": "点数計算練習",
       "efficiencyTrain": "牌効率練習",
+      "breakdownTrain": "拆搭練習",
       "guide": "入門から上級へ",
       "books": "戦術書リンク集",
       "contact": "作者について",
@@ -603,5 +604,42 @@
       "cannotDecompose": "手牌を分解できません。入力内容を確認してください",
       "noValidWinningShape": "有効な和了形がありません。入力内容を確認してください"
     }
+  },
+  "breakdownTrain": {
+    "title": "拆搭練習",
+    "settings": {
+      "questionLegend": "問題"
+    },
+    "ui": {
+      "handTitle": "手牌",
+      "shanten": "向聴数",
+      "selected": "選択済み",
+      "selectHint": "牌をクリックして答えを選択"
+    },
+    "efficiencyAnalysis": {
+      "title": "進張数分析"
+    },
+    "analysis": {
+      "title": "問題解説"
+    },
+    "table": {
+      "cut": "切",
+      "improvements": "進張",
+      "goodShapeRate": "好型率",
+      "total": "総進張"
+    },
+    "buttons": {
+      "submit": "回答を提出",
+      "skip": "スキップ",
+      "prev": "前の問題",
+      "next": "次の問題",
+      "jump": "ジャンプ"
+    },
+    "result": {
+      "correct": "正解！",
+      "wrong": "不正解！",
+      "correctAnswer": "正解"
+    }
   }
+
 }
